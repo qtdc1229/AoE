@@ -1,4 +1,19 @@
-![AoE](./images/aoe_192.png)
+<div align="center">    
+ <img src="./images/aoe_192.png" width = "150" height = "150" alt="AoE" align=left />
+ <img src="https://img.shields.io/github/license/didi/aoe.svg" align=left />
+ <img src="https://img.shields.io/badge/Android-1.0.0-blue.svg" align=left />
+ <img src="https://img.shields.io/badge/iOS-1.0.0-yellow.svg" align=left />
+ <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" align=left />
+</div>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 **AoE** 取名自AI on Edge，是一个终端侧AI集成运行时环境(IRE)。AoE 以“稳定性、易用性、安全性”为设计原则，帮助开发者将不同框架的深度学习算法轻松部署到终端高效执行。
 
